@@ -34,7 +34,7 @@ def create_gift_card():
     gift_card = f"""
 xʙᴏx ᴄᴀʀᴅ ɢᴇɴ
 ╔═════════════════╗
-║  XBOX GIFT CARD  ║
+║  XBOX GIFT CARD ║
 ╠═════════════════╣
 ║ Username: {username}
 ║ Code: {code}
@@ -53,8 +53,8 @@ def create_game_pass_code():
     game_pass_code = f"""
 xʙᴏx ᴄᴀʀᴅ ɢᴇɴ
 ╔═══════════════════╗
-║  CREATE GAME PASS  ║
-║       CODE        ║
+║ = CREATE GAME PASS║
+║       CODE =      ║
 ╠═══════════════════╣
 ║ Code: {code}
 ║ Duration: {duration}
@@ -68,17 +68,8 @@ def current_update():
     return """
 xʙᴏx ᴄᴀʀᴅ ɢᴇɴ
 ┏━━━━━━━━━━━━━━━━━━━┓
-┃~ Current Update ~ ┃
-┃0.4 New Features   ┃
-┃ - When using the  ┃
-┃generators you have┃
-┃the option to go   ┃
-┃re generate or go  ┃ 
-┃back to dashboard  ┃                     
-┃- More designed    ┃
-┃look               ┃
-┃                   ┃
-┃                   ┃
+┃= Check github for ┃
+┃updates =          ┃
 ┃                   ┃
 ┗━━━━━━━━━━━━━━━━━━━┛
 """
