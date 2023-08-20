@@ -1,4 +1,4 @@
 # xboxcodescam
-Use the method for this software
+Use this software with the method
 
 === All issues message @ezwayx on telegram ===
